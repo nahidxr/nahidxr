@@ -58,7 +58,7 @@ Language/Tools:PHP, Laravel, MySQL.
   - Investigate and resolve technical issues.
   - Implement and maintain monitoring and alerting.
   - Build and maintain highly available production systems.
-  - 
+    
 **Trainee DevOps Engineer**<br/>
 BJIT Academy – House-1, Road-2E Baridhara J Block, Dhaka [1212 04/2023 to 7/2023]<br/>
  - Set up and maintain development environments
