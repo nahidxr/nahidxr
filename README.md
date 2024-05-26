@@ -58,7 +58,17 @@ Language/Tools:PHP, Laravel, MySQL.
   - Investigate and resolve technical issues.
   - Implement and maintain monitoring and alerting.
   - Build and maintain highly available production systems.
-
+  - 
+**Trainee DevOps Engineer**<br/>
+BJIT Academy – House-1, Road-2E Baridhara J Block, Dhaka [1212 04/2023 to 7/2023]<br/>
+ - Set up and maintain development environments
+ - Used Shell scripts to day to day activities and tasks for automating
+ - Used Jenkins tool to automate the build process.
+ - Worked in GIT to manage source code
+ - Automated the continuous integration and deployments using Jenkins, Docker and Kubernetes
+ - Worked on Docker containers to create Docker images for different environments
+ - Have experience in cloud platforms like AWS (EC2, S3, RDS, VPC, ELB, Auto scaling, CloudFront )
+ - Proficient in utilizing Redmine for project management and issue tracking.
 **Software Engineer**<br/>
  Dev Skill – Razia Plaza, Mirpur 10, Dhaka -1216, [01-07-2022]<br />
  - Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.<br />
