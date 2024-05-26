@@ -1,4 +1,3 @@
-<img alt="Coder GIF" src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" style="max-width: 100%;" data-target="animated-image.originalImage"><br/>
 <img alt="Coder GIF" src="https://drive.google.com/uc?export=view&id=1V_-Zbb-3IU3eZh38bT8EsDjaCit3eWaQ" style="max-width: 100%;" data-target="animated-image.originalImage"><br/>
 
 
