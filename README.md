@@ -1,6 +1,5 @@
 <img alt="Coder GIF" src="https://thumbs.dreamstime.com/b/banner-devops-vector-illustration-concept-software-engineering-culture-practice-development-operation-137594571.jpg" style="max-width: 100%;" data-target="animated-image.originalImage"><br/>
 
-<img alt="Coder GIF" src="[https://images.app.goo.gl/Tu11ZsHoXRQErg276](https://www.shutterstock.com/image-vector/devops-banner-concept-development-operation-software-2182404347)" style="max-width: 100%;" data-target="animated-image.originalImage"><br/>
 
 <h1 align="center">Hi there👋, I'm Md Nahidul Islam</h1>
 <h3 align="center">A passionate Software and DevOps Engineer</h3>
