@@ -48,6 +48,17 @@ Language/Tools:PHP, Laravel, MySQL.
 
 
 ## 💻 Work Experience
+**DevOps Engineer**<br/>
+ Nexdecade Technology ( Pvt ) Ltd. – 44F/6, West, Panthapath, Dhaka - 1215 [Present]<br/>
+  - Deploy updates and fixes.
+  - Provide Level 2 technical support.
+  - Implement integrations of supportive internal monitoring tools/system
+  - Develop software to integrate with internal back-end systems.
+  - Perform root cause analysis for production errors.
+  - Investigate and resolve technical issues.
+  - Implement and maintain monitoring and alerting.
+  - Build and maintain highly available production systems.
+
 **Software Engineer**<br/>
  Dev Skill – Razia Plaza, Mirpur 10, Dhaka -1216, [01-07-2022]<br />
  - Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.<br />
