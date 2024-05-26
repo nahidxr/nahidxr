@@ -69,6 +69,7 @@ BJIT Academy – House-1, Road-2E Baridhara J Block, Dhaka [1212 04/2023 to 7/20
  - Worked on Docker containers to create Docker images for different environments
  - Have experience in cloud platforms like AWS (EC2, S3, RDS, VPC, ELB, Auto scaling, CloudFront )
  - Proficient in utilizing Redmine for project management and issue tracking.
+   
 **Software Engineer**<br/>
  Dev Skill – Razia Plaza, Mirpur 10, Dhaka -1216, [01-07-2022]<br />
  - Communications with the foreign Clients to identify, understand the daily task and other functional dependencies.<br />
