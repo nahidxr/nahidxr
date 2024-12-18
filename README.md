@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on System App monitoring Tools
+- 🔭 I’m currently working on **System App monitoring Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nahidxr/](https://github.com/nahidxr/)
 
