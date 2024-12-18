@@ -45,6 +45,88 @@ Language/Tools:PHP, Laravel, MySQL, jQuery, Bootstrap.<br/>
 - **Bio Life**<br/>
 Language/Tools:PHP, Laravel, MySQL.
 
+- **System Monitoring Tools**<br/>
+
+- Developed GCP dashboards using Google Cloud APIs for monitoring CPU, memory, and latency.
+
+- Integrated Observium API for server health checks and alerts.
+
+- Built linear channel monitoring with Slack/WhatsApp alerts, GCP autoscaling, and database scheduling using Laravel CronJobs.
+
+- Created network diagnostics tools (ping/trace), OTP status checker, and two-way server monitoring with SNMP.
+
+- Designed Docker-based solutions to containerize applications, improving deployment efficiency.
+
+- Orchestrated Kubernetes clusters for seamless container management and scaling.
+
+- **On-Premise Server Provision and Deployment**
+
+Company: Nexdecade
+
+Description:
+
+Prepared architecture diagrams and set up three virtual machines.
+
+Installed Ansible, Docker, Jenkins, SonarQube, and Trivy on a virtual machine.
+
+Created an Ansible playbook and Jenkins pipeline.
+
+Deployed a Java Spring Boot application in a Kubernetes cluster using Jenkins pipeline.
+
+AWS Server Provision and Deployment
+
+Company: Nexdecade
+
+Description:
+
+Identified required services and designed architecture diagrams.
+
+Created a VPC, RDS, EC2 instance, Auto Scaling Group (ASG), load balancer, and configured Route 53.
+
+Created a Jenkins pipeline.
+
+Deployed a Java Spring Boot application on an EC2 instance using Jenkins.
+
+PHP Deployment: Git-Ansible-Jenkins with Apache
+
+Company: Nexdecade
+
+Description:
+
+Prepared architecture diagrams.
+
+Installed Ansible and Jenkins on a virtual machine.
+
+Set up web and database servers using Ansible.
+
+Deployed a PHP application onto an Apache web server using Ansible within a Jenkins pipeline.
+
+Dockerizing a PHP Project: Git-Docker-PHP-MySQL
+
+Company: Nexdecade
+
+Description:
+
+Created a Dockerfile.
+
+Built and configured a docker-compose.yml file.
+
+Built and ran the Docker container for the PHP project.
+
+Unique Estates Project
+
+Company: Dev Skill
+
+Description:
+
+Worked on the Unique Estates website and CRM.
+
+Experimented with updating software versions.
+
+Integrated client and product information with a third-party marketing platform (Releva.ai) for marketing campaign creation.
+
+Technologies used: PHP, Laravel, MySQL, API, Git, Docker, Jira.
+
 
 
 ## 💻 Work Experience
