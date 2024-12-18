@@ -106,15 +106,12 @@ Configurable Cellular System Using USRP B200," 2022 IEEE Region 10 Symposium (TE
 ## 🎓 Education
 - B.Sc. in Computer Science & Engineering, [2021]<br/>
   _United International University, Dhaka, Bangladesh_<br/>
-- Higher Secondary (H.S.C) in Science Group, [2015]<br/>
-  _Dhaka Imperial College, Dhaka_<br/>
- - Secondary School (S.S.C) in Science Group, [2013]<br/>
-  _Lemua High School_
 
 ## 📚 Training
-- Web Application Development with Laravel at Dev skill Training Academy, Dhaka on Nov 2,
+- Web Application Development with Laravel at Dev skill Training Academy, Dhaka on Nov 2, 2021 to Feb 20, 2022
 2021 to Feb 20, 2022.
 - DevOps Engineering at United International University, Dhaka on Sept 5 to Dec 5 2022.
+- DevOps Fundamental at Dev Skill, Dhaka on Dec 15, 2022 to Mar 5 2023
 
 
 ## 📈 GitHub Stats
